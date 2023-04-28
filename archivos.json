@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Nuevo nombre",
+        "author": "persona",
+        "year": 2021
+    },
+    {
+        "id": 2,
+        "name": "Atlas",
+        "author": "Jorge Luis Borges",
+        "year": 1987
+    },
+    {
+        "id": 3,
+        "name": "La sombra del Viento",
+        "author": "Julian Carax",
+        "year": 2001
+    },
+    {
+        "name": "El Principe",
+        "author": "Nicholas Maquiavelo",
+        "year": 1531,
+        "id": 5
+    }
+]
